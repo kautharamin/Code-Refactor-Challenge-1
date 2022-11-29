@@ -20,7 +20,7 @@ N/A
 
 ## Usage 
 
-[Website Screenshot](assets\images\01-html-css-git-challenge-demo.png/)
+![01-html-css-git-challenge-demo](https://user-images.githubusercontent.com/106407959/204661636-fa2c302e-ba5e-42ad-ab4a-637f40e481cf.png)
 
 A screenshot of the web application is added above.
 

@@ -20,7 +20,7 @@ N/A
 
 ## Usage 
 
-[Website Screenshot](assets\images\01-html-css-git-challenge-demo.png/)
+![Website Screenshot](assets\images\01-html-css-git-challenge-demo.png/)
 
 A screenshot of the web application is added above.
 

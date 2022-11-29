@@ -12,7 +12,7 @@ Changes to the HTML and CSS code includes:
 * Descriptive titles
 * Adding a favicon at the web browser's tab  
 
-The deployed application is linked [here](https://kautharamin.github.io/Code-Refactor-Challenge-1/)
+The deployed application is linked [here](https://kautharamin.github.io/Code-Refactor-Challenge-1/).
 
 ## Installation
 
